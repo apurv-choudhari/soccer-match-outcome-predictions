@@ -1,14 +1,5 @@
 # Soccer Match Outcome Prediction
 
-## Contributors
-
-| **Team Member**   | **Unity ID** |
-| ----------------- | ------------ |
-| Apurv Choudhari   | apchoudh     |
-| Chinmay Singhania | csingha      |
-| Parth Kulkarni    | pnkulka2     |
-| Madhur Dixit      | mvdixit      |
-
 ## Project Overview
 
 This project predicts soccer match outcomes using different datasets and methodologies. Below is an overview of the files in this repository:
